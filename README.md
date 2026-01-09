@@ -1,6 +1,7 @@
 A full-stack food delivery application built with the MERN stack. This platform allows users to browse menus, manage their carts, and place orders, while providing a comprehensive admin panel for restaurant management.
 
 🔗 **Live Demo:** (https://food-dev-client.vercel.app/)
+
 **⚠️ Note on Initial Load:** This application is hosted on a free Render instance. The server may go to sleep after periods of inactivity. If the app seems slow to load initially, please allow **up to 1 minute** for the backend services to wake up.
 
 ## Features
@@ -20,9 +21,7 @@ A full-stack food delivery application built with the MERN stack. This platform 
 
 **Frontend:**
 * React.js
-* Vite
-* Context API (State Management)
-* CSS / CSS Modules
+* Context API 
 
 **Backend:**
 * Node.js
